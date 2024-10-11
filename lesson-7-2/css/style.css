@@ -1,0 +1,96 @@
+
+.boxes{
+    display: flex;
+    height: 660px;
+    border-radius: 5px;
+    justify-content: center;
+    margin: 30px 0px;
+    gap: 30px;
+}
+.boxes img{
+}
+.price{
+    color: brown;
+    text-align: justify;
+    margin-left: 40px;
+  
+}
+.lenovo{
+    text-align: justify;
+    margin-left: 40px;
+}
+ol{
+    background-color: #ebebeb;
+    width:370px ;
+    margin-left: 20px;
+    margin-right: 20px;
+  border: 1px solid white;
+    text-align: justify;
+}
+
+.buy{
+    display: flex;
+
+margin-right: 260px;
+    color: blueviolet;
+    font-weight: bold;
+    text-decoration: none;
+ margin:  15px  25px auto;
+
+}
+.add{
+    color: blueviolet;
+    font-weight: bold;
+    text-decoration: none;
+    margin:  15px  25px auto;
+}
+.back{
+    display: block;
+    font-style: italic;
+    font-size: 12px;
+    color: black;
+    margin:  15px  25px auto;
+}
+.parent{
+
+    border: 1px solid black;
+    border-radius: 10px;
+
+    
+ 
+}
+.parent img{
+  
+  
+}
+
+.child{
+    display: flex; 
+    flex-direction: column;
+}
+.lenevo1{
+    text-align: justify;
+    margin-left: 50px;
+}
+
+.price1{
+    color: brown;
+    text-align: justify;
+    margin-left: 50px;
+  
+}
+h2{
+    text-align: center;
+}
+.box img{
+    margin-left: 70px;
+}
+.child img{
+    margin-left: 70px;
+}
+.box{
+    border: 1px solid black;
+    border-radius: 12px;
+    display: flex; 
+    flex-direction: column;
+}

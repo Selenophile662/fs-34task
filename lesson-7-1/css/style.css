@@ -1,0 +1,139 @@
+
+
+.parent{
+    margin-left: 20px;
+padding: 0px 0px 0px 300px;
+}
+.child{
+    width: 700px;
+    height: 350px;
+    margin: auto;
+    background-color: #f0fff8;
+
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+}
+
+.lesson{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    height: 50px;
+    border: 1px solid #80ced6;
+}
+
+.lesson h2:first-child{
+ 
+    width: 40%;
+    padding: 10px;
+}
+.lesson h2:last-child{
+
+    width: 60%;
+    padding: 10px;
+    border-left: 1px solid #80ced6;
+}
+.child li{
+    font-size: 30px;
+    margin-top: 10px;
+
+
+
+}
+.boxes{
+
+    padding: 20px;
+    border-radius: 20px;
+  font-size: 21px;
+    width: 750px;
+    height: 350px;
+    border: 1px solid black;
+    margin:  29px auto;
+    background-color: greenyellow;
+}
+.box{
+    padding: 0px 0px 0px 280px;
+}
+.ders{
+    margin: auto;
+    border: 1px solid black;
+    width: 780px;
+    height: 80px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: blueviolet;
+
+
+}
+.ders1{
+    margin: auto;
+    border: 1px solid black;
+    width: 780px;
+    height: 80px;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 20px;
+    background-color: greenyellow;
+  
+
+}
+.ders2{
+    margin: auto;
+    border: 1px solid black;
+    width: 780px;
+    height: 80px;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 20px;
+    background-color: blueviolet;
+  
+
+}
+.karyera{
+    padding: 0px 0px 0px 280px;
+}
+.karyera1{
+    margin: auto;
+    border: 1px solid black;
+    width: 750px;
+    height: 740px;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 20px;
+    background-color: greenyellow;
+  
+}
+.life{
+    padding: 0px 0px 0px 280px;
+}
+.life1{
+    margin: auto;
+    border: 1px solid black;
+    width: 780px;
+    height: 160px;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 20px;
+    background-color: blueviolet;
+}
+.axrinci{
+    padding: 0px 0px 0px 280px;
+}
+.axrinci1{
+    margin: auto;
+    border: 1px solid black;
+    width: 780px;
+    height: 310px;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 20px;
+    background-color: greenyellow;
+}
+h1{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.boxes p{
+    width: 740px;
+}
